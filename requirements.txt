@@ -1,0 +1,7 @@
+# Core dependencies
+redis>=5.0.0
+redis-async>=5.0.0
+
+# For TUI tool (optional)
+rich>=13.0.0
+textual>=0.41.0
