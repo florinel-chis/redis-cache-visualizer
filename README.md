@@ -368,5 +368,5 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ## 📞 Support
 
-- GitHub Issues: [Report bugs or request features](https://github.com/yourusername/redis-cache-visualizer/issues)
+- GitHub Issues: [Report bugs or request features](https://github.com/florinel-chis/redis-cache-visualizer/issues)
 - Documentation: This README and inline code comments
